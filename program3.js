@@ -1,7 +1,3 @@
-/*
-synchronous - reads code from top to bottom
-var fs = require('fs') - standard making the variable as the same name as the module, put it in paranthesis - global module 
-*/
 var fs = require('fs');
 
 var filePath = process.argv[2];
